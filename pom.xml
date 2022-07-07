@@ -47,13 +47,7 @@
                         </goals>
                     </execution>
                 </executions>
-                <dependencies>
-                    <dependency>
-                        <groupId>com.github.spotbugs</groupId>
-                        <artifactId>spotbugs</artifactId>
-                        <version>4.7.0</version>
-                    </dependency>
-                </dependencies>
+
             </plugin>
 
 
